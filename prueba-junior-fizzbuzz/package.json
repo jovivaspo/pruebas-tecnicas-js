@@ -1,0 +1,17 @@
+{
+  "name": "prueba-junior-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ 
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}

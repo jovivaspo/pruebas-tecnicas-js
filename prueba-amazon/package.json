@@ -1,0 +1,20 @@
+{
+  "name": "prueba-amazon",
+  "version": "1.0.0",
+  "description": "1 -> I\r 2 -> II\r 3 -> III\r 5 -> V\r 10 -> X\r 50 -> L\r 100 -> C\r 500 -> D\r 1000 -> M\r El número más grande será 3999",
+  "main": "to-romans.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "jest": "^29.5.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "prueba-paddock",
+  "version": "1.0.0",
+  "description": "const paddockType = [\r   { id: 1, name: 'PALTOS' },\r   { id: 2, name: 'AVELLANOS' },\r   { id: 3, name: 'CEREZAS' },\r   { id: 4, name: 'NOGALES' },\r ]",
+  "main": "paddock.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
